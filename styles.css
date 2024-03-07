@@ -8,7 +8,7 @@
 	justify-content: space-around;
 }
 .block {
-    /* display: inline-block; */
+    display: inline-block;
     width: 1000px;
     height: 130px;
     border-radius: 50%;
